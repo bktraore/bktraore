@@ -15,7 +15,7 @@ Hi, I'm Boubacar Traoré, a Data Analyst 🚀 from France, currently student �
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning SQL and Python; 
+- 🌱 I’m currently learning SQL, Python and PowerBI; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@boubacar-traore](https://www.linkedin.com/in/boubacar-traore-1b6b401bb/);
 - 📝[Resume](https://drive.google.com/file/d/1_-uWSJrzYbc_Lbg4-431ff_ZeTbYU3vX/view?usp=sharing)
