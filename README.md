@@ -8,7 +8,7 @@
 
 <br />
 
-Hi, I'm Boubacar Traoré, a Data Analyst 🚀 from France, currently student 👨🏽‍💻 at [@Ironhack](https://www.ironhack.com/). Beside's programming, I enjoy sports 🎾🏀 and traveling.
+Hi, I'm Boubacar Traoré, a Data Analyst 🚀 from France, currently student 👨🏽‍💻 at [@Epitech](https://www.epitech.eu/en/). Beside's programming, I enjoy sports 🎾🏀 and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
